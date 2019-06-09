@@ -1,0 +1,2 @@
+# GIT_MERGE_REBASE
+Test
